@@ -325,83 +325,83 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop { /* GITHUB */
+.GITHUB { 
   	width: 78%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: GITHUB 2s ease;
+  	-webkit-animation: GITHUB 2s ease;
 }
-.illustrator { /* NETFLIX */
+.NETFLIX { 
   	width: 62%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+  	-moz-animation: NETFLIX 2s ease;
+  	-webkit-animation: NETFLIX 2s ease;
 }
-.wordpress { /* GAMINGS */
+.GAMINGS { 
   	width: 56%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+  	-moz-animation: GAMINGS 2s ease;
+  	-webkit-animation: GAMINGS 2s ease;
 }
-.css { /* JAVA AND COFFEE */
+.JAVACOFFEE { /* JAVACOFFEE */
   	width: 89%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+  	-moz-animation: JAVACOFFEE 2s ease;
+  	-webkit-animation: JAVACOFFEE 2s ease;
 }
-.html5 { /* SWIFT */
+.SWIFT { 
   	width: 79%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+  	-moz-animation: SWIFT 2s ease;
+  	-webkit-animation: SWIFT 2s ease;
 }
-.jquery { /* FLUTTER */
+.FLUTTER {
   	width: 25%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: FLUTTER 2s ease;
+  	-webkit-animation: FLUTTER 2s ease;
 }
 
-@-moz-keyframes photoshop {
+@-moz-keyframes GITHUB {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-moz-keyframes illustrator {
+@-moz-keyframes NETFLIX {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes GAMINGS {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-moz-keyframes css {
+@-moz-keyframes JAVACOFFEE {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes SWIFT {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes FLUTTER {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
 
-@-webkit-keyframes photoshop {
+@-webkit-keyframes GITHUB {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes illustrator {
+@-webkit-keyframes NETFLIX {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-webkit-keyframes wordpress {
+@-webkit-keyframes GAMINGS {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-webkit-keyframes css {
+@-webkit-keyframes JAVACOFFEE {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-webkit-keyframes html5 {
+@-webkit-keyframes SWIFT {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes FLUTTER {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
